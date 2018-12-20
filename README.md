@@ -1,4 +1,3 @@
-# 357-HW8
+# iOS UITableViews
 Owen Dunn and Brandon Griggs </br>
-iOS UITableViews </br>
 Used with a conversion calculator for length and volume.
